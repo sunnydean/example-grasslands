@@ -1,2 +1,4 @@
 .ipynb_checkpoints/grasslands-example-checkpoint.ipynb
 .virtual_documents/grasslands-example.ipynb
+*/*.ipynb_checkpoints
+.DS_Store
